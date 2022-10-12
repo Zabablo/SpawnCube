@@ -1,0 +1,10 @@
+Library/
+Logs/
+obj/
+.vs/
+Recordings/
+.vsconfig
+app.config
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+
